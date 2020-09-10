@@ -1,0 +1,4 @@
+{
+  "name": "General", // The name is what will show up in the help command
+  "hide": false // If you want to hide the folder from the help command then put true
+}

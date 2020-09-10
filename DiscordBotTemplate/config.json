@@ -1,0 +1,8 @@
+{
+  "token": " --YOUR-TOKEN-GOES-HERE-- ", // This token is what you will need to get from your discord dashboard portal
+  "owners": [
+    "YOUR-OWNER-ID", // Your Discord ID
+    "YOUR-SECOND-PARTNER-ID" // Your CO-OWNERS Discord ID
+  ],
+  "prefix": "-" // You can change this at any time
+}
